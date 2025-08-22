@@ -1,4 +1,3 @@
-```markdown
 ## AthenaX
 
 **🌐 AthenaX - The Open Data Layer** 
@@ -74,3 +73,13 @@ We're running the [HackX Buildathon](https://hackquest.io/hackathons/HackX-Build
         </tr>
     </tbody>
 </table>
+
+## 🏗️ Build → 📚 Research → 📊 Analyze → 🚀 Launch
+
+**With AthenaX**
+
+---
+
+<p align="center">
+  <i>We're not just building tools. We're building permanent infrastructure for human knowledge and innovation.</i>
+</p>
