@@ -4,7 +4,8 @@
 
 Building permanent infrastructure for human knowledge and innovation. Learn more [here](https://x.com/athenax_co).
 
-![AthenaX Banner](https://github.com/AthenaX/assets/blob/main/img/athenax_banner.png?raw=true)
+<img width="1116" height="393" alt="image" src="https://github.com/user-attachments/assets/8a628247-e801-4e5e-b9c4-11575f85f985" />
+
 
 #### 📊 Your Data, Forever Accessible
 
@@ -51,7 +52,7 @@ We're running the [HackX Buildathon](https://hackquest.io/hackathons/HackX-Build
     <thead>
         <tr>
             <th colspan="2"> Join us in building the Open Data Layer (Remote)
-            <a href="mailto:careers@athenax.co">📧 Send your resume to careers@athenax.co</a>
+            <a href="mailto:careers@athenax.co">📧 Send your resume to lin@athenax.co</a>
             </th>
         </tr>
     </thead>
